@@ -26,3 +26,4 @@ It's important to give proper credit. Add links to any repo that inspired you or
 About .gitignore: https://www.bmc.com/blogs/gitignore/
 Stackoverflow for troubleshooting https://stackoverflow.com/
 Python documentation https://docs.python.org/3/
+Using git from the command line https://gist.github.com/ccannon94/982d69b23659d66c0ca6fb1384f94c97
